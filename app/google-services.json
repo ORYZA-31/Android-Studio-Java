@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "981081843262",
+    "project_id": "ngacara-project-database",
+    "storage_bucket": "ngacara-project-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981081843262:android:74ab2daa6ba5e9810e136f",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981081843262-srlcjmagn8nciqo448nd2b2nidsjoge9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase",
+            "certificate_hash": "953ded1155e4a221aef262b0b3cfde65628fb700"
+          }
+        },
+        {
+          "client_id": "981081843262-orhe5nndmasfrdf056kpg3e44eghrflv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYtdjINzf5zCwbXotaKltdSrHYym-U0Q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981081843262-orhe5nndmasfrdf056kpg3e44eghrflv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
